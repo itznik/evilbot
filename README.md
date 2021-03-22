@@ -1,8 +1,8 @@
 
-<h1 align="centre">🎶 Evil Music Bot 🎶</h1>
+<h1 align="centre">🎶 Itznik_x music bot 🎶</h1>
 
 <p align="center">
-  <img src="./resources/extras/1615044144821.jpg" alt="Evilmusicbot">
+  <img src="./resources/extras/1615044144821.jpg" alt="Itznik_music_bot">
 </p>
 
 ## Requirements 📝
