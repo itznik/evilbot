@@ -1,14 +1,14 @@
 {
-    "name": "evilbott",
+    "name": "itznik_bot",
     "description": "An Open-source PyTgCalls based Pyrogram bot to play music in voice chats",
-    "logo": "https://telegra.ph/file/99afe853eb142eb6b5470.jpg",
+    "logo": "https://telegra.ph/file/77d6a1afb51285f38872b.jpg",
     "keywords": [
       "telegram",
       "voicechat",
       "pytgcalls",
       "productivity"
     ],
-    "repository": "https://github.com/jattpawan/evilbot",
+    "repository": "https://github.com/itznik/evilbot",
     "stack": "container",
     "env": {
       "API_ID": {
@@ -29,7 +29,7 @@
       },
       "BOT_NAME": {
         "description": " Add your bot name by default it is êvilẞø†.",
-        "value": "êvilẞø†"
+        "value": "itznik_x"
       },
       "SUDO_USERS": {
         "description": "List of ID of those who can pause, stop and clear queue,separated by space.",
