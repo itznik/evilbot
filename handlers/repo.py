@@ -15,12 +15,12 @@ from helpers.wrappers import errors, admins_only
 )
 async def start(client: Client, message: Message):
     await message.reply_text(
-        "**êvilẞø†:** if you want musicbot like me then click on repo button to get my repo and click on SESSION button for gernating session and click on heroku botton to deploy me🤍  \n**GO AND DEPLOY ❤️**",
+        "**itznik_x:** if you want musicbot like me then click on repo button to get my repo and click on SESSION button for gernating session and click on heroku botton to deploy me🤍  \n**GO AND DEPLOY ❤️**",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💙 REPO 💙", url="https://github.com/jattpawan/evilbot"
+                        "💙 REPO 💙", url="https://github.com/itznik/evilbot"
                     )
                 ],
                 [
@@ -47,12 +47,12 @@ async def start(client: Client, message: Message):
 )
 async def start_(client: Client, message: Message):
     await message.reply_text(
-        "**êvilẞø†:** if you want musicbot like me then click on repo button to get my repo and click on SESSION button for gernating session and click on heroku botton to deploy me🤍  \n**GO AND DEPLOY ❤️**",
+        "**itznik_x:** if you want musicbot like me then click on repo button to get my repo and click on SESSION button for gernating session and click on heroku botton to deploy me🤍  \n**GO AND DEPLOY ❤️**",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💙 REPO 💙", url="https://github.com/jattpawan/evilbot"
+                        "💙 REPO 💙", url="https://github.com/itznik/evilbot"
                     )
                 ],
                 [
