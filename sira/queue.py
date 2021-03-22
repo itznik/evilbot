@@ -62,8 +62,8 @@ def clear(chat_id: Union[str, int]) -> None:
 
     if chat_id in queues:
         if queues[chat_id].empty():
-            raise QueueEmpty("**êvilẞø†:** The queue is empty.")
+            raise QueueEmpty("**itznik_x:** The queue is empty.")
         else:
             queues[chat_id]._queue = []
     else:
-        raise QueueEmpty("**êvilẞø†:** The queue is empty.")
+        raise QueueEmpty("**itznik_x:** The queue is empty.")
