@@ -20,7 +20,7 @@
 
 Get STRING_NAME from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://repl.it/@pawanjatt/evilmusicbot)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://repl.it/@nik1234/evilmusicbot-1#main.py)
 
 ### Mandatory Vars.
 
