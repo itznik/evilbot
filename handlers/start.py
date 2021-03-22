@@ -17,7 +17,7 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
        f"""🙃 Hi {message.from_user.first_name}!
 
-✨ I am êvilẞø† Music Player. 
+✨ I am itznik_x Music Player. 
 
 🥳 I can play music in your Telegram Group's Voice Chat😉
 
@@ -26,15 +26,15 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "📔 Source Code 📔", url="https://github.com/jattpawan/evilbot"
+                        "📔 Source Code 📔", url="https://github.com/itznik/evilbot"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group 💬", url="https://t.me/BLAC_USERBOT_GROUP"
+                        "💬 Group 💬", url="https://t.me/joinchat/ULpERV2PsrTvLigG"
                     ),
                     InlineKeyboardButton(
-                        "📣 Channel 📣", url="https://t.me/BLAC_USERBOT"
+                        "📣 Channel 📣", url="https://t.me/about_itznik_x"
                     )
                 ],
                 [
