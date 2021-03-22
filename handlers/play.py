@@ -16,7 +16,7 @@ from helpers.errors import DurationLimitError
     & ~ filters.edited
 )
 async def play_(client: Client, message: Message):
-    await message.reply_text("**êvilẞø†:** Sorry! I can only be used in groups. \nTry again in a group.")
+    await message.reply_text("**itznik_x:** Sorry! I can only be used in groups. \nTry again in a group.")
 
 
 @Client.on_message(
@@ -28,12 +28,12 @@ async def play_(client: Client, message: Message):
 async def play(client: Client, message_: Message):
     audio = (message_.reply_to_message.audio or message_.reply_to_message.voice) if message_.reply_to_message else None
 
-    res = await message_.reply_text("**êvilẞø†:** 🔄 Processing...")
+    res = await message_.reply_text("**itznik_x:** 🔄 Processing...")
 
     if audio:
         if round(audio.duration / 60) > DURATION_LIMIT:
             raise DurationLimitError(
-                f"**êvilẞø†:** Videos longer than {DURATION_LIMIT} minute(s) aren't allowed, the provided video is {audio.duration / 60} minute(s)"
+                f"**itznik_x:** Videos longer than {DURATION_LIMIT} minute(s) aren't allowed, the provided video is {audio.duration / 60} minute(s)"
             )
 
         file_name = audio.file_id + audio.file_name.split(".")[-1]
