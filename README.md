@@ -2,7 +2,7 @@
 <h1 align="centre">🎶 Itznik_x music bot 🎶</h1>
 
 <p align="center">
-  <img src="./resources/extras/1615044144821.jpg" alt="Itznik_music_bot">
+  <img src="./resources/extras/wp7728958-moon-love-wallpapers.jpg" alt="Itznik_music_bot">
 </p>
 
 ## Requirements 📝
